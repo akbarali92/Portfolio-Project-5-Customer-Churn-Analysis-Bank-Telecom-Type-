@@ -126,3 +126,6 @@ This project helps companies understand customer behavior and take proactive act
   Akbar Ali
   Data Analyst
 
+## Tags
+
+#DataAnalytics #PowerBI #SQL #Python #MachineLearning #PortfolioProject #BusinessIntelligence
